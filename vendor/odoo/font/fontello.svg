@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2020 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="odoo" unicode="&#xe800;" d="M1404 151c-84 0-151 68-151 152s67 151 151 151 152-68 152-151-68-152-152-152z m0 63c49 0 89 39 89 89s-40 88-89 88-89-39-89-88 40-89 89-89z m-317-63c-84 0-152 68-152 152s68 151 152 151 151-68 151-151-67-152-151-152z m0 63c49 0 89 39 89 89s-40 88-89 88-89-39-89-88 40-89 89-89z m-166 91c0-85-68-154-151-154-84 0-152 69-152 153 0 85 62 150 152 150 33 0 64-7 89-25l0 88c0 16 14 30 31 30 17 0 31-14 31-30v-212z m-151-91c49 0 89 39 89 89s-40 88-89 88-89-39-89-88 40-89 89-89z m-317-63c-84 0-152 68-152 152s68 151 152 151 151-68 151-151-68-152-151-152z m0 63c49 0 88 39 88 89s-39 88-88 88-89-39-89-88 39-89 89-89z" horiz-adv-x="1857" />
+</font>
+</defs>
+</svg>

@@ -160,17 +160,34 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #BD5D38 !important;
+
+  /* background-color: #404447 !important; */
+  /* background: #485563;  /* fallback for old browsers */
+  /* background: -webkit-linear-gradient(to right, #29323c, #485563);  /* Chrome 10-25, Safari 5.1-6 */
+  /* background: linear-gradient(to right, #29323c, #485563); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  background: #62495B;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #875A7B, #62495B);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #875A7B, #62495B); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .text-primary {
-  color: #BD5D38 !important;
+  color: #62495B !important;
 }
 
 a {
-  color: #BD5D38;
+  color: #62495B;
 }
 
 a:hover, a:focus, a:active {
   color: #824027;
+}
+
+.icon-logo {
+  font-size: 20px;
+  color: #123456;
+  background: pink;
+  padding: 12px 15px;
+  border-radius: 50%;
+  font-family: FontAwesome;
 }
